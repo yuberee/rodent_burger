@@ -38,7 +38,7 @@ Layer0
 	TextureBlendMaskB "materials/default/default_blend.tga"
 	TextureColorB "materials/white_brick_painted_color.jpg"
 	TextureMetalnessB "materials/default/default_metal.tga"
-	TextureNormalB "materials/white_brick_normal.jpg"
+	TextureNormalB "materials/white_brick_paint_normal.jpg"
 	TextureRoughnessB "materials/default/default_rough.tga"
 	TextureTintMaskB "materials/default/default.tga"
 
